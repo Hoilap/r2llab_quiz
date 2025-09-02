@@ -19,7 +19,7 @@ The goal of this exercise is to assess your ability to quickly learn a new domai
 
 You may seek out other works as you see fit, but your review **must** cover the following papers:
 
-1.  **Sparse Retrieval (BM25):** Jones, K. S. (1976). [A statistical interpretation of term specificity and its application in retrieval](https://www.staff.city.ac.uk/~sbrp622/papers/RSJ76.pdf). *Journal of documentation*.
+1.  **Sparse Retrieval (BM25):** Jones, K. S. (1976). [Relevance Weighting of Search Terms](https://www.staff.city.ac.uk/~sbrp622/papers/RSJ76.pdf). *Journal of documentation*.
 2.  **Dense Retrieval (DPR):** Karpukhin, V., et al. (2020). [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906). *EMNLP*.
 3.  **Retrieval-Augmented Generation (RAG):** Lewis, P., et al. (2020). [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401). *NeurIPS*.
 
