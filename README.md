@@ -1,4 +1,15 @@
-
+## Project structure
+```
+|- R2LLAB_QUIZ
+|   - datasets
+|   - results
+|   - download_scifact.py
+|   - dense_retriever.py 
+|   - sparse_retriever.py
+|   - sparse_retriever_v2.py //add token preprocessing
+|   - evaluation.py
+|   - README.md //README_zh.md for draft
+```
 ## Command to run the code
 - `pip install -r requirements.txt`
 - `python download_scifact.py` to download the dataset
